@@ -1,0 +1,5 @@
+python-lazy-importer source: file-without-copyright-information
+python-lazy-importer source: no-debian-changes
+python-lazy-importer source: source-contains-prebuilt-windows-binary
+python-lazy-importer source: source-is-missing
+python-lazy-importer source: source-package-encodes-python-version
